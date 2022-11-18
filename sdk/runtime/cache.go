@@ -6,7 +6,7 @@ import (
 
 	"github.com/chanxuehong/wechat/oauth2"
 
-	"git.code.oa.com/ad/go-project-base/storage"
+	"github.com/jwcjf/go-project-base/storage"
 )
 
 const (

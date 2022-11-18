@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package errors;
 
-option go_package = "git.code.oa.com/ad/go-project-base/errors";
+option go_package = "github.com/jwcjf/go-project-base/errors";
 
 message Error {
   string requestId = 1;

@@ -2,7 +2,7 @@
 package box
 
 import (
-	"git.code.oa.com/ad/go-project-base/config/secrets"
+	"github.com/jwcjf/go-project-base/config/secrets"
 	"github.com/pkg/errors"
 	naclbox "golang.org/x/crypto/nacl/box"
 

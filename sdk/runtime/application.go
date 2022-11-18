@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"sync"
 
-	"git.code.oa.com/ad/go-project-base/logger"
-	"git.code.oa.com/ad/go-project-base/storage"
-	"git.code.oa.com/ad/go-project-base/storage/queue"
+	"github.com/jwcjf/go-project-base/logger"
+	"github.com/jwcjf/go-project-base/storage"
+	"github.com/jwcjf/go-project-base/storage/queue"
 	"github.com/casbin/casbin/v2"
 	"github.com/robfig/cron/v3"
 	"gorm.io/gorm"

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 	
-	"git.code.oa.com/ad/go-project-base/config"
-	"git.code.oa.com/ad/go-project-base/config/source/file"
+	"github.com/jwcjf/go-project-base/config"
+	"github.com/jwcjf/go-project-base/config/source/file"
 )
 
 func TestApp(t *testing.T)  {

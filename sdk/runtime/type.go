@@ -3,8 +3,8 @@ package runtime
 import (
 	"net/http"
 
-	"git.code.oa.com/ad/go-project-base/logger"
-	"git.code.oa.com/ad/go-project-base/storage"
+	"github.com/jwcjf/go-project-base/logger"
+	"github.com/jwcjf/go-project-base/storage"
 	"github.com/casbin/casbin/v2"
 	"github.com/robfig/cron/v3"
 	"gorm.io/gorm"

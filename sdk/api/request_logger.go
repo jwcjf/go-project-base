@@ -5,9 +5,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"git.code.oa.com/ad/go-project-base/logger"
-	"git.code.oa.com/ad/go-project-base/sdk"
-	"git.code.oa.com/ad/go-project-base/sdk/pkg"
+	"github.com/jwcjf/go-project-base/logger"
+	"github.com/jwcjf/go-project-base/sdk"
+	"github.com/jwcjf/go-project-base/sdk/pkg"
 )
 
 type loggerKey struct{}

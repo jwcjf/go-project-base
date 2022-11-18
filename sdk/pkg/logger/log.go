@@ -4,12 +4,12 @@ import (
 	"io"
 	"os"
 
-	"git.code.oa.com/ad/go-project-base/debug/writer"
-	"git.code.oa.com/ad/go-project-base/logger"
-	"git.code.oa.com/ad/go-project-base/plugins/logger/zap"
-	"git.code.oa.com/ad/go-project-base/sdk/pkg"
+	"github.com/jwcjf/go-project-base/debug/writer"
+	"github.com/jwcjf/go-project-base/logger"
+	"github.com/jwcjf/go-project-base/plugins/logger/zap"
+	"github.com/jwcjf/go-project-base/sdk/pkg"
 
-	log "git.code.oa.com/ad/go-project-base/logger"
+	log "github.com/jwcjf/go-project-base/logger"
 )
 
 // SetupLogger 日志 cap 单位为kb

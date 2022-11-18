@@ -3,7 +3,7 @@ package service
 import (
 	"fmt"
 
-	"git.code.oa.com/ad/go-project-base/logger"
+	"github.com/jwcjf/go-project-base/logger"
 	"gorm.io/gorm"
 )
 

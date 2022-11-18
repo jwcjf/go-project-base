@@ -3,7 +3,7 @@ package file
 import (
 	"strings"
 
-	"git.code.oa.com/ad/go-project-base/config/encoder"
+	"github.com/jwcjf/go-project-base/config/encoder"
 )
 
 func format(p string, e encoder.Encoder) string {

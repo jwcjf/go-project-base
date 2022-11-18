@@ -4,7 +4,7 @@ import (
 	"github.com/go-redis/redis/v7"
 	"github.com/robinjoseph08/redisqueue/v2"
 
-	"git.code.oa.com/ad/go-project-base/storage"
+	"github.com/jwcjf/go-project-base/storage"
 )
 
 // NewRedis redis模式

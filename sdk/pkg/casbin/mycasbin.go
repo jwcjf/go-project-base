@@ -6,7 +6,7 @@ import (
 	"github.com/casbin/casbin/v2/model"
 	"gorm.io/gorm"
 
-	gormAdapter "git.code.oa.com/ad/go-project-base/sdk/pkg/gormadapter"
+	gormAdapter "github.com/jwcjf/go-project-base/sdk/pkg/gormadapter"
 )
 
 // Initialize the model from a string.

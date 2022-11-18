@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"git.code.oa.com/ad/go-project-base/sdk/pkg"
-	jwt "git.code.oa.com/ad/go-project-base/sdk/pkg/jwtauth"
+	"github.com/jwcjf/go-project-base/sdk/pkg"
+	jwt "github.com/jwcjf/go-project-base/sdk/pkg/jwtauth"
 )
 
 // ExtractClaims ...

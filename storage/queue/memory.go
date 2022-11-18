@@ -5,7 +5,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"git.code.oa.com/ad/go-project-base/storage"
+	"github.com/jwcjf/go-project-base/storage"
 )
 
 type queue chan storage.Messager

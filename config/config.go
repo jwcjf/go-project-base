@@ -4,10 +4,10 @@ package config
 import (
 	"context"
 
-	"git.code.oa.com/ad/go-project-base/config/loader"
-	"git.code.oa.com/ad/go-project-base/config/reader"
-	"git.code.oa.com/ad/go-project-base/config/source"
-	"git.code.oa.com/ad/go-project-base/config/source/file"
+	"github.com/jwcjf/go-project-base/config/loader"
+	"github.com/jwcjf/go-project-base/config/reader"
+	"github.com/jwcjf/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/source/file"
 )
 
 // Config is an interface abstraction for dynamic configuration

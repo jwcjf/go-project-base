@@ -3,7 +3,7 @@ package file
 import (
 	"context"
 
-	"git.code.oa.com/ad/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/source"
 )
 
 type filePathKey struct{}

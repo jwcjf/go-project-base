@@ -4,10 +4,10 @@ import (
 	"errors"
 	"time"
 
-	"git.code.oa.com/ad/go-project-base/config/encoder"
-	"git.code.oa.com/ad/go-project-base/config/encoder/json"
-	"git.code.oa.com/ad/go-project-base/config/reader"
-	"git.code.oa.com/ad/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/encoder"
+	"github.com/jwcjf/go-project-base/config/encoder/json"
+	"github.com/jwcjf/go-project-base/config/reader"
+	"github.com/jwcjf/go-project-base/config/source"
 	"github.com/imdario/mergo"
 )
 

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	logCore "git.code.oa.com/ad/go-project-base/logger"
+	logCore "github.com/jwcjf/go-project-base/logger"
 	"gorm.io/gorm/logger"
 )
 

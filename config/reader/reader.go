@@ -4,7 +4,7 @@ package reader
 import (
 	"time"
 
-	"git.code.oa.com/ad/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/source"
 )
 
 // Reader is an interface for merging changesets

@@ -6,7 +6,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"git.code.oa.com/ad/go-project-base/logger"
+	"github.com/jwcjf/go-project-base/logger"
 )
 
 // Options ...

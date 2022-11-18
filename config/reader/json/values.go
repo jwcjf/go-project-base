@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"git.code.oa.com/ad/go-project-base/config/reader"
-	"git.code.oa.com/ad/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/reader"
+	"github.com/jwcjf/go-project-base/config/source"
 	simple "github.com/bitly/go-simplejson"
 )
 

@@ -4,8 +4,8 @@ package loader
 import (
 	"context"
 
-	"git.code.oa.com/ad/go-project-base/config/reader"
-	"git.code.oa.com/ad/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/reader"
+	"github.com/jwcjf/go-project-base/config/source"
 )
 
 // Loader manages loading sources

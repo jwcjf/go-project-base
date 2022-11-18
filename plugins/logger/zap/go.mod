@@ -1,4 +1,4 @@
-module git.code.oa.com/ad/go-project-base/plugins/logger/zap
+module github.com/jwcjf/go-project-base/plugins/logger/zap
 
 go 1.15
 

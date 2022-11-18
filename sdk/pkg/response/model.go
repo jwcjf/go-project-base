@@ -1,7 +1,7 @@
 package response
 
 import (
-	pbErrors "git.code.oa.com/ad/go-project-base/errors"
+	pbErrors "github.com/jwcjf/go-project-base/errors"
 )
 
 // Response ...

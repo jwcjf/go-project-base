@@ -1,11 +1,11 @@
 package reader
 
 import (
-	"git.code.oa.com/ad/go-project-base/config/encoder"
-	"git.code.oa.com/ad/go-project-base/config/encoder/json"
-	"git.code.oa.com/ad/go-project-base/config/encoder/toml"
-	"git.code.oa.com/ad/go-project-base/config/encoder/xml"
-	"git.code.oa.com/ad/go-project-base/config/encoder/yaml"
+	"github.com/jwcjf/go-project-base/config/encoder"
+	"github.com/jwcjf/go-project-base/config/encoder/json"
+	"github.com/jwcjf/go-project-base/config/encoder/toml"
+	"github.com/jwcjf/go-project-base/config/encoder/xml"
+	"github.com/jwcjf/go-project-base/config/encoder/yaml"
 )
 
 // Options ...

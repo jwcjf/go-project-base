@@ -3,7 +3,7 @@ package antd
 import (
 	"net/http"
 
-	"git.code.oa.com/ad/go-project-base/sdk/pkg"
+	"github.com/jwcjf/go-project-base/sdk/pkg"
 	"github.com/gin-gonic/gin"
 )
 

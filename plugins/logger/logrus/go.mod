@@ -1,4 +1,4 @@
-module git.code.oa.com/ad/go-project-base/plugins/logger/logrus
+module github.com/jwcjf/go-project-base/plugins/logger/logrus
 
 go 1.15
 

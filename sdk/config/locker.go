@@ -1,8 +1,8 @@
 package config
 
 import (
-	"git.code.oa.com/ad/go-project-base/storage"
-	"git.code.oa.com/ad/go-project-base/storage/locker"
+	"github.com/jwcjf/go-project-base/storage"
+	"github.com/jwcjf/go-project-base/storage/locker"
 	"github.com/go-redis/redis/v7"
 )
 

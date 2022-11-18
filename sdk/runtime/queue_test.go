@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"git.code.oa.com/ad/go-project-base/storage"
-	"git.code.oa.com/ad/go-project-base/storage/queue"
+	"github.com/jwcjf/go-project-base/storage"
+	"github.com/jwcjf/go-project-base/storage/queue"
 	"github.com/go-redis/redis/v7"
 	"github.com/robinjoseph08/redisqueue/v2"
 )

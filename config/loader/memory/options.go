@@ -1,9 +1,9 @@
 package memory
 
 import (
-	"git.code.oa.com/ad/go-project-base/config/loader"
-	"git.code.oa.com/ad/go-project-base/config/reader"
-	"git.code.oa.com/ad/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/loader"
+	"github.com/jwcjf/go-project-base/config/reader"
+	"github.com/jwcjf/go-project-base/config/source"
 )
 
 // WithSource appends a source to list of sources

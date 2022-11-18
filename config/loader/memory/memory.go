@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"git.code.oa.com/ad/go-project-base/config/loader"
-	"git.code.oa.com/ad/go-project-base/config/reader"
-	"git.code.oa.com/ad/go-project-base/config/reader/json"
-	"git.code.oa.com/ad/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/loader"
+	"github.com/jwcjf/go-project-base/config/reader"
+	"github.com/jwcjf/go-project-base/config/reader/json"
+	"github.com/jwcjf/go-project-base/config/source"
 )
 
 type memory struct {

@@ -1,7 +1,7 @@
 package captcha
 
 import (
-	"git.code.oa.com/ad/go-project-base/storage"
+	"github.com/jwcjf/go-project-base/storage"
 	"github.com/mojocn/base64Captcha"
 )
 

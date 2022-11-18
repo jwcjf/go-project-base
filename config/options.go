@@ -1,9 +1,9 @@
 package config
 
 import (
-	"git.code.oa.com/ad/go-project-base/config/loader"
-	"git.code.oa.com/ad/go-project-base/config/reader"
-	"git.code.oa.com/ad/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/loader"
+	"github.com/jwcjf/go-project-base/config/reader"
+	"github.com/jwcjf/go-project-base/config/source"
 )
 
 // WithLoader sets the loader for manager config

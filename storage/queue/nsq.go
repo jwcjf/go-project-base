@@ -1,7 +1,7 @@
 package queue
 
 import (
-	"git.code.oa.com/ad/go-project-base/storage"
+	"github.com/jwcjf/go-project-base/storage"
 	json "github.com/json-iterator/go"
 	"github.com/nsqio/go-nsq"
 )

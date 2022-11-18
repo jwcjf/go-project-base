@@ -4,7 +4,7 @@
 import (
 	"os"
 	"github.com/sirupsen/logrus"
-	"git.code.oa.com/ad/go-project-base/logger"
+	"github.com/jwcjf/go-project-base/logger"
 )
 
 func ExampleWithOutput() {

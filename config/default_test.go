@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"git.code.oa.com/ad/go-project-base/config/source"
-	"git.code.oa.com/ad/go-project-base/config/source/env"
-	"git.code.oa.com/ad/go-project-base/config/source/file"
-	"git.code.oa.com/ad/go-project-base/config/source/memory"
+	"github.com/jwcjf/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/source/env"
+	"github.com/jwcjf/go-project-base/config/source/file"
+	"github.com/jwcjf/go-project-base/config/source/memory"
 )
 
 func createFileForIssue18(t *testing.T, content string) *os.File {

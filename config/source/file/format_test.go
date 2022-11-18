@@ -3,7 +3,7 @@ package file
 import (
 	"testing"
 
-	"git.code.oa.com/ad/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/source"
 )
 
 func TestFormat(t *testing.T) {

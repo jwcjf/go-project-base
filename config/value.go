@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"git.code.oa.com/ad/go-project-base/config/reader"
+	"github.com/jwcjf/go-project-base/config/reader"
 )
 
 type value struct{}

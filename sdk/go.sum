@@ -1,9 +1,9 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
-git.code.oa.com/ad/go-project-base v0.0.0-20210617041917-694f9a069817 h1:F4cgQReK7/xqQvWNxbjI3byAjxqNjvHSOKxwrzOkJf4=
-git.code.oa.com/ad/go-project-base v0.0.0-20210617041917-694f9a069817/go.mod h1:9ED16CiI+Jv4Y6F2VSscJHR6QzZRs4irXEuKLKoaKq0=
-git.code.oa.com/ad/go-project-base/plugins/logger/zap v0.0.0-20210615131104-4de9123f216e h1:LtNx8+mrS24kJVQRtuS9QDpv0DtGKyyefhWAxUjAnMM=
-git.code.oa.com/ad/go-project-base/plugins/logger/zap v0.0.0-20210615131104-4de9123f216e/go.mod h1:8+za87MxxULXX8D+4XolCW8kP/RnHWWZRfobemrXfSc=
+github.com/jwcjf/go-project-base v0.0.0-20210617041917-694f9a069817 h1:F4cgQReK7/xqQvWNxbjI3byAjxqNjvHSOKxwrzOkJf4=
+github.com/jwcjf/go-project-base v0.0.0-20210617041917-694f9a069817/go.mod h1:9ED16CiI+Jv4Y6F2VSscJHR6QzZRs4irXEuKLKoaKq0=
+github.com/jwcjf/go-project-base/plugins/logger/zap v0.0.0-20210615131104-4de9123f216e h1:LtNx8+mrS24kJVQRtuS9QDpv0DtGKyyefhWAxUjAnMM=
+github.com/jwcjf/go-project-base/plugins/logger/zap v0.0.0-20210615131104-4de9123f216e/go.mod h1:8+za87MxxULXX8D+4XolCW8kP/RnHWWZRfobemrXfSc=
 git.code.oa.com/polaris/polaris-go v0.8.7 h1:gp1T8TBWWH6EcNp5zob4pMhZRbkKEzo0wDHImKPPNyA=
 git.code.oa.com/polaris/polaris-go v0.8.7/go.mod h1:guideYc/rRxulM16ectNojnHvFRLXllm8ewwG+3aFSg=
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=

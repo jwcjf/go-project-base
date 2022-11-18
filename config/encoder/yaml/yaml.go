@@ -1,7 +1,7 @@
 package yaml
 
 import (
-	"git.code.oa.com/ad/go-project-base/config/encoder"
+	"github.com/jwcjf/go-project-base/config/encoder"
 	"github.com/ghodss/yaml"
 )
 

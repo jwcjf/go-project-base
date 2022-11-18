@@ -3,8 +3,8 @@ package source
 import (
 	"context"
 
-	"git.code.oa.com/ad/go-project-base/config/encoder"
-	"git.code.oa.com/ad/go-project-base/config/encoder/json"
+	"github.com/jwcjf/go-project-base/config/encoder"
+	"github.com/jwcjf/go-project-base/config/encoder/json"
 )
 
 // Options ...

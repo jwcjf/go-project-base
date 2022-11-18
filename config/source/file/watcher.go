@@ -5,7 +5,7 @@ package file
 import (
 	"os"
 
-	"git.code.oa.com/ad/go-project-base/config/source"
+	"github.com/jwcjf/go-project-base/config/source"
 	"github.com/fsnotify/fsnotify"
 )
 
