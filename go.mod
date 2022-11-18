@@ -1,4 +1,4 @@
-module git.code.oa.com/ad/go-project-base
+module github.com/jwcjf/go-project-base
 
 go 1.15
 
