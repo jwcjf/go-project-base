@@ -3,8 +3,8 @@ module github.com/jwcjf/go-project-base/sdk
 go 1.15
 
 require (
-	github.com/jwcjf/go-project-base v0.0.0-20210617041917-694f9a069817
-	github.com/jwcjf/go-project-base/plugins/logger/zap v0.0.0-20210615131104-4de9123f216e
+	github.com/jwcjf/go-project-base v0.0.4
+	github.com/jwcjf/go-project-base/plugins/logger/zap v0.0.4
 	git.code.oa.com/polaris/polaris-go v0.8.7
 	github.com/bsm/redislock v0.7.1
 	github.com/casbin/casbin/v2 v2.31.3
